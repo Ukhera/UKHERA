@@ -40,7 +40,6 @@ With 4+ years of experience in **data analytics and financial services**, I spec
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/urvashikhera)  
 - 📧 Reach me at: urvashi.khera@gmail.com  
-- 🌐 Portfolio (Coming Soon)
 
 ---
 
