@@ -2,13 +2,13 @@
 
 # 👋 I'm Urvashi Khera
 
-🎯 **Senior Data Engineer** | 💡 Data & Business Analytics Enthusiast | 📊 Excel • SQL • Python • Power BI • Tableau • VBA
+🎯 **Lead Data Analyst** | 💡 Data & Business Analytics Enthusiast | 📊 Excel • SQL • Python • Power BI • Tableau • VBA
 
 ---
 
 ## 🚀 About Me
 
-With 4+ years of experience in **data analytics and financial services**, I specialize in transforming complex datasets into meaningful insights that drive smarter decisions. I’ve worked across **cash forecasting**, **automation**, **reporting**, and **business support**, using tools like **Excel VBA**, **Power BI**, **Python**, and **SQL** to deliver scalable and impactful solutions.
+With 10+ years of experience in **data analytics and financial services**, I specialize in transforming complex datasets into meaningful insights that drive smarter decisions. I’ve worked across **cash forecasting**, **automation**, **reporting**, and **business support**, using tools like **Excel VBA**, **Power BI**, **Python**, and **SQL** to deliver scalable and impactful solutions.
 
 💼 Currently: Helping teams unlock the full potential of their data through advanced analytics and automation  
 🧠 Passionate about: Data storytelling, automation, financial modeling, and building intuitive dashboards  
