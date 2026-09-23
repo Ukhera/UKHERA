@@ -39,10 +39,6 @@ Answered 15 business questions on ~8,800 Netflix titles covering content mix, ra
 Analysed ~15,000 employee records to identify attrition drivers: 24% of employees left, with Sales the most affected department. Overutilised employees showed ~12% lower satisfaction and ~18% higher attrition, leading to recommendations on workload and compensation.
 `pandas` `seaborn` `scikit-learn` `EDA`
 
-**[Zomato Data Analytics](https://github.com/Ukhera/Python-zomato-data-analytics)**
-Exploratory analysis of Zomato restaurant data in Python.
-`pandas` `matplotlib` `EDA`
-
 ### 📗 Excel Financial Models *(repos coming soon)*
 
 **Hotel Budget & P&L Analysis Model**
@@ -67,6 +63,5 @@ Excel model comparing hotel performance against competitors and market benchmark
 
 ## 📬 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/urvashikhera)
-- 📧 urvashi.khera2501@gmail.com
-⭐️ *Thanks for visiting my profile — let’s build something insightful together!*
+- 💼 [LinkedIn](https://www.linkedin.com/in/urvashi-khera)
+- 📧 urvashikhera1802@gmail.com
