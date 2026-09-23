@@ -2,7 +2,7 @@
 
 **Lead Data Analyst** | Financial & Hospitality Analytics | Power BI • SQL • Python • Excel
 
-I turn financial and operational data into decisions. I have ~9 years of experience across **Accenture, Alten India, and Patona**, and currently support asset-management analytics for an **11-property Australian hotel portfolio** spanning IHG, Marriott, Hyatt, Accor and TFE brands. I'm completing an **MBA in Data Science at NMIMS, Mumbai** (Dec 2026), building on a B.Com in finance.
+I turn financial and operational data into decisions. I have ~9 years of experience across **Accenture, Alten India, and Patona**, and currently support asset-management analytics for an **Top 11 Australian hotel portfolio** s. I'm completing an **MBA in Data Science at NMIMS, Mumbai** (Dec 2026), building on a B.Com in finance.
 
 ---
 
