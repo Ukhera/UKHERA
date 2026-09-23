@@ -39,7 +39,7 @@ With 4+ years of experience in **data analytics and financial services**, I spec
 ## 📬 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/urvashikhera)  
-- 📧 Reach me at: urvashi.khera@gmail.com  
+- 📧 Reach me at: urvashi.khera2501@gmail.com  
 
 ---
 
